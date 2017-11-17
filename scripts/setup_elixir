@@ -1,3 +1,0 @@
-\curl -sSL https://raw.githubusercontent.com/taylor/kiex/master/install | bash -s
-[[ -s "$HOME/.kiex/scripts/kiex" ]] && source "$HOME/.kiex/scripts/kiex"
-kiex install 1.5.2

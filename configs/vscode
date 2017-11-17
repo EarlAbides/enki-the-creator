@@ -1,38 +1,14 @@
 #!/bin/bash
 
 export extensions=(
-  AdamCaviness.theme-monokai-dark-soda
-  Alan.MochaSnippets
-  HookyQR.beautify
-  Ionide.Ionide-FAKE
-  Ionide.Ionide-Paket
-  Ionide.Ionide-fsharp
-  LaurentTreguier.vscode-simple-icons
-  PKief.material-icon-theme
-  TsumiNa.Seti-theme
-  WallabyJs.wallaby-vscode
-  aeschli.theme-colorful-defaults
-  andischerer.theme-atom-one-dark
-  be5invis.vscode-icontheme-nomo-dark
-  dbaeumer.vscode-eslint
-  eg2.tslint
-  emmanuelbeziat.vscode-great-icons
-  gerane.Theme-ChromeDevTools
-  gerane.Theme-FlatDark
-  gerane.Theme-TomorrowNight
-  gerane.Theme-TronLegacy
-  groksrc.ruby
-  idleberg.icon-fonts
-  ivanzusko.theme-chrome-devtools-dark
-  joelday.docthis
-  mkaufman.HTMLHint
-  ms-vscode.csharp
-  ms-vscode.mono-debug
-  msjsdiag.debugger-for-chrome
-  qinjia.seti-icons
-  rebornix.Ruby
-  robertohuertasm.vscode-icons
-  vivainio.jadeview
-  xabikos.JavaScriptSnippets
-  zhuangtongfa.Material-theme
+  PeterJausovec.vscode-docker
+Unity.unity-debug
+eamodio.gitlens
+eppz.eppz-code
+haaaad.ansible
+lukehoban.Go
+ms-python.python
+ms-vscode.csharp
+rebornix.Ruby
+wholroyd.jinja
 )

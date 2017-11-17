@@ -1,6 +1,0 @@
-#!/bin/bash
-
-export packages=(
-  lolcat
-  polarbear
-)

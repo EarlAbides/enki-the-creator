@@ -14,15 +14,8 @@ config_dir=${mydir}/../configs
 [[ $1 ]] && { config_dir = $1 }
 
 installers=(
-  ohmyzsh
   brew
-  node
   vscode
-  atom
-  vim
-  java
-  ruby
-  aspnet
   powerlinefonts
 )
 
